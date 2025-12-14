@@ -6,7 +6,7 @@ This project integrates multi-omics profiles of human milk (HM) with detailed ma
 
 - Characterize HM multi-omics composition across countries and lactation stages.
 - Quantify how maternal factors (e.g., age, parity, BMI) shape HM composition.
-- Evaluate how HM composition directly impacts to infant anthropometric growth.
+- Evaluate how HM composition directly impacts infant anthropometric growth.
 
 A debiased multi-omics machine learning framework is used to adjust for covariates and integrate HM multi-omics data across diverse study sites.
 ## Data
