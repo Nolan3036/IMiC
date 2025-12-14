@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/CHILD/C_metabolite_s.csv filter=lfs diff=lfs merge=lfs -text
+data/ELICIT/E_metabolite_s.csv filter=lfs diff=lfs merge=lfs -text
+data/Mumta-LW/Mu_metabolite_s.csv filter=lfs diff=lfs merge=lfs -text
+data/MISAME-III/Mi_metabolite_s.csv filter=lfs diff=lfs merge=lfs -text
